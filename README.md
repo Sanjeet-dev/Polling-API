@@ -3,6 +3,7 @@
 
 🔴This Polling API is made with NODEJS.🔴You can create question on this API and add Options to it.🔴You can vote for specific option. 🔴 You can Delete question. 🔴 You can only Delete Question or Option only if it has not votes;
 ## 🪧Demo
+https://polling-api-o4xn.onrender.com/
 
 
 
@@ -23,9 +24,6 @@
 ```
 ## 🪛Built With
 🟠NODEJS 🟠ExpressJS 🟠MongoDB 🟠Mongoose 
-## 🖼️Screenshots
-
-🔴Landing Page
 
 
 ## ✨Features
@@ -40,14 +38,14 @@
   * Delete an option → (An option can’t be deleted if it has even one vote given to it).
   * View a question with it’s options and all the votes given to it.
     
-<!-- ● Available Routes:
-  * https://dhananjayk-authentication-system.onrender.com/questions/create  (To create a question)
-  * https://dhananjayk-authentication-system.onrender.com/questions/:id/options/create  (To add options to a specific question)
-  * https://dhananjayk-authentication-system.onrender.com/questions/:id/delete (To delete a question)
-  *	https://dhananjayk-authentication-system.onrender.com/options/:id/delete (To delete an option)
-  *	https://dhananjayk-authentication-system.onrender.com/options/:id/add_vote (To increment the count of votes)
-  * https://dhananjayk-authentication-system.onrender.com/questions/:id (To view a question and it’s options)
-     -->
+● Available Routes:
+  * https://polling-api-o4xn.onrender.com/questions/create  (To create a question)
+  * https://polling-api-o4xn.onrender.com/questions/:id/options/create  (To add options to a specific question)
+  * https://polling-api-o4xn.onrender.com/questions/:id/delete (To delete a question)
+  *	https://polling-api-o4xn.onrender.com/options/:id/delete (To delete an option)
+  *	https://polling-api-o4xn.onrender.com/options/:id/add_vote (To increment the count of votes)
+  * https://polling-api-o4xn.onrender.com/questions/:id (To view a question and it’s options)
+     
 ## 🚦Version
 1.0 - Running Succesfully with above feature
 
