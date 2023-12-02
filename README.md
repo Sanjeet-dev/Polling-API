@@ -4,7 +4,7 @@
 🔴This Polling API is made with NODEJS.🔴You can create question on this API and add Options to it.🔴You can vote for specific option. 🔴 You can Delete question. 🔴 You can only Delete Question or Option only if it has not votes;
 ## 🪧Demo
 
-https://dhananjayk-polling-api.onrender.com
+
 
 
 
@@ -26,7 +26,6 @@ https://dhananjayk-polling-api.onrender.com
 ## 🖼️Screenshots
 
 🔴Landing Page
-![Screenshot_1](https://user-images.githubusercontent.com/125384723/228120627-d3c921de-47ec-4a56-be82-77610d47a23c.png)
 
 
 ## ✨Features
